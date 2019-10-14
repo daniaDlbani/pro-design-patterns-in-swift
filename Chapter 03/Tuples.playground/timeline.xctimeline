@@ -2,5 +2,35 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dania/Desktop/Books%20Software%20engineering/Design%20Patterns/design%20patterns%20in%20swift/pro-design-patterns-in-swift/Chapter%2003/Tuples.playground#CharacterRangeLen=27&amp;CharacterRangeLoc=178&amp;EndingColumnNumber=0&amp;EndingLineNumber=6&amp;StartingColumnNumber=5&amp;StartingLineNumber=5&amp;Timestamp=592726487.3795"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dania/Desktop/Books%20Software%20engineering/Design%20Patterns/design%20patterns%20in%20swift/pro-design-patterns-in-swift/Chapter%2003/Tuples.playground#CharacterRangeLen=34&amp;CharacterRangeLoc=210&amp;EndingColumnNumber=0&amp;EndingLineNumber=7&amp;StartingColumnNumber=5&amp;StartingLineNumber=6&amp;Timestamp=592726487.3796721"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dania/Desktop/Books%20Software%20engineering/Design%20Patterns/design%20patterns%20in%20swift/pro-design-patterns-in-swift/Chapter%2003/Tuples.playground#CharacterRangeLen=31&amp;CharacterRangeLoc=249&amp;EndingColumnNumber=0&amp;EndingLineNumber=8&amp;StartingColumnNumber=5&amp;StartingLineNumber=7&amp;Timestamp=592726487.379804"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dania/Desktop/Books%20Software%20engineering/Design%20Patterns/design%20patterns%20in%20swift/pro-design-patterns-in-swift/Chapter%2003/Tuples.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=289&amp;EndingColumnNumber=23&amp;EndingLineNumber=8&amp;StartingColumnNumber=9&amp;StartingLineNumber=8&amp;Timestamp=592726487.3799191"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dania/Desktop/Books%20Software%20engineering/Design%20Patterns/design%20patterns%20in%20swift/pro-design-patterns-in-swift/Chapter%2003/Tuples.playground#CharacterRangeLen=33&amp;CharacterRangeLoc=348&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=5&amp;StartingLineNumber=9&amp;Timestamp=592726487.380021"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dania/Desktop/Books%20Software%20engineering/Design%20Patterns/design%20patterns%20in%20swift/pro-design-patterns-in-swift/Chapter%2003/Tuples.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=25&amp;EndingColumnNumber=14&amp;EndingLineNumber=2&amp;StartingColumnNumber=5&amp;StartingLineNumber=2&amp;Timestamp=592726487.380124"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
